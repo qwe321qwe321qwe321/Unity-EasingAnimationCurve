@@ -5,7 +5,7 @@ It used fewer keyframes to approximate the easing functions rather than sampling
 
 There are only 2 ~ 9 keyframes in a curve.
 
-* You can download the [curve presets](##AnimationCurve-Presets) if you only need the AnimationCurve resources.
+* You can download the [curve presets](#animationcurve-presets) if you only need the AnimationCurve resources.
 * Main features are all in `EasingAnimationCurve.cs`, and `EasingAnimationCurveExample.cs` shows all usages of this repo.
 
 ## Preview
