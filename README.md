@@ -5,25 +5,26 @@ It used fewer keyframes to approximate the easing functions rather than sampling
 
 There are only 2 ~ 9 keyframes in a curve.
 
-* You can download the [curve presets](##AnimationCurve-Presets) if you only need the AnimationCurve resources.
+* You can download the [curve presets](#animationcurve-presets) if you only need the AnimationCurve resources.
 * Main features are all in `EasingAnimationCurve.cs`, and `EasingAnimationCurveExample.cs` shows all usages of this repo.
 
 ## Preview
-EaseInOutBounce: 9 keyframes
-![](Images/EaseInOutBounce.png)
-EaseInExpo: 2 keyframes
-![](Images/EaseInExpo.png)
-EaseInOutCubic: 3 keyframes
-![](Images/EaseInOutCubic.png)
-EaseInOutElastic: 9 keyframes
-![](Images/EaseInOutElastic.png)
 
+| EaseInOutBounce: 9 keyframes  | EaseInExpo: 2 keyframes  |
+|---|---|
+|  ![](Images/EaseInOutBounce.png) | ![](Images/EaseInExpo.png)  |
+
+
+| EaseInOutCubic: 3 keyframes  | EaseInOutElastic: 9 keyframes  |
+|---|---|
+|  ![](Images/EaseInOutCubic.png) | ![](Images/EaseInOutElastic.png)  |
 
 Show all comparaison of easing function(GREEN) and animation curve(RED):
+
 ![](Images/EasingAnimationCurve_overview.gif)
 
 ## AnimationCurve Presets
-You can put the presets into your project without any scripts. See [EasingFunctionPresets.unitypackage]().
+You can put the presets into your project without any scripts. See [EasingFunctionPresets.unitypackage](https://github.com/qwe321qwe321qwe321/Unity-EasingAnimationCurve/releases/tag/1.0.0).
 ![](Images/Presets.png)
 
 ## EaseElastic has an obvious error
